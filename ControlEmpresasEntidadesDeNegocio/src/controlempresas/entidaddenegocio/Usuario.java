@@ -118,5 +118,11 @@ public class Usuario {
     public void setRol(Rol rol) {
         this.rol = rol;
     }
+
+    public static class EstatusUsuario {
+
+      public static final byte ACTIVO =1;
+      public static final byte INACTIVO =2;
+    }
     
 }
