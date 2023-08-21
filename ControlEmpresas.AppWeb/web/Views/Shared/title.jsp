@@ -1,8 +1,3 @@
-<%-- 
-    Document   : title
-    Created on : 17 ago. 2023, 22:33:11
-    Author     : dfer4
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
